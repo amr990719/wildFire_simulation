@@ -23,7 +23,7 @@ A 200×200 grid of cellular agents catches, burns, and dies out through a three-
 
 ---
 
-## 1 · Context and Purpose
+## 1· Context and Purpose
 
 **Problem.** How large does a wildfire become when it starts at a random point in a heterogeneous forest, and what governs whether it fizzles out or spreads across the landscape?
 
@@ -43,7 +43,7 @@ A 200×200 grid of cellular agents catches, burns, and dies out through a three-
 
 ---
 
-## 3 - Assumptions & Limitations
+## 3. Assumptions & Limitations
 
 ### Assumptions (explicit list)
 
@@ -58,7 +58,7 @@ The main limitation of this model is that it represents wildfire spread using si
 
 ---
 
-## 4 · System Definition
+## 4· System Definition
 
 | Inside the boundary | Outside the boundary |
 |---|---|
@@ -71,7 +71,7 @@ The main limitation of this model is that it represents wildfire spread using si
 
 ---
 
-## 5 · Model Structure & State Logic
+## 5· Model Structure & State Logic
 
 **Agent.** The model has a single agent type: the **cell** (`GridCell`, 40,000 instances), each carrying its own `Fuel` value and fire statechart. `Main` is only the container hosting the grid — not a behavioural agent.
 
@@ -97,7 +97,7 @@ The main limitation of this model is that it represents wildfire spread using si
 
 ---
 
-## 6 · Experiments & Scenarios
+## 6· Experiments & Scenarios
 
 | | |
 |---|---|
@@ -110,7 +110,7 @@ The batch fire model mirrors the visual statechart exactly: a burning cell sprea
 
 ---
 
-## 7 · Verification, Reproducibility & Inputs
+## 7· Verification, Reproducibility & Inputs
 
 ### Verification & Validation
 
@@ -132,7 +132,7 @@ The batch fire model mirrors the visual statechart exactly: a burning cell sprea
 
 ---
 
-## 8 · Results and Analysis
+## 8· Results and Analysis
 
 All results come from the **final setting only** (fuel-weighted Poisson spread, rate 3): 400 landscapes × 100 random ignitions = **40,000 fires**. The question is the shape of the fire-size distribution — and whether it follows a power law.
 
@@ -166,7 +166,7 @@ All results come from the **final setting only** (fuel-weighted Poisson spread, 
 
 ---
 
-## 9 · Comparison to the Classic Wildfire Power Law
+## 9· Comparison to the Classic Wildfire Power Law
 
 ### The idealized law (Drossel–Schwabl / self-organized criticality)
 
@@ -189,7 +189,7 @@ This model reproduces the heavy tail but **not** the pure power law, for three s
 
 ---
 
-## 10 · Uses and Learning Reflection
+## 10· Uses and Learning Reflection
 
 ### What the model is used for
 

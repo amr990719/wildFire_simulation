@@ -14,7 +14,7 @@ A 200×200 grid of cellular agents catches, burns, and dies out through a three-
 2. [Modeling Approach](#2-modeling-approach)
 3. [Assumptions & Limitations](#3-assumptions-and-limitations)
 4. [System Definition](#4-system-definition)
-5. [Model Structure & State Logic](#5-model-structure-state-logic)
+5. [Model Structure & State Logic](#5-model-structure-and-state-logic)
 6. [Experiments & Scenarios](#6-experiments-and-scenarios)
 7. [Verification, Reproducibility & Inputs](#7-verification-reproducibility-and-inputs)
 8. [Results and Analysis](#8-results-and-analysis)

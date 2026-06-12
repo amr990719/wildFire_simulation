@@ -19,7 +19,7 @@ A 200×200 grid of cellular agents catches, burns, and dies out through a three-
 7. [Verification, Reproducibility & Inputs](#7-verification-reproducibility-inputs)
 8. [Results and Analysis](#8-results-analysis)
 9. [Comparison to the Classic Wildfire Power Law](#9-comparison-to-the-classic-wildfire-power-law)
-10. [Uses & Learning Reflection](#10-uses-learning-reflection)
+10. [Uses and Learning Reflection](#10-uses-learning-reflection)
 
 ---
 
@@ -189,7 +189,7 @@ This model reproduces the heavy tail but **not** the pure power law, for three s
 
 ---
 
-## 10 · Uses & Learning Reflection
+## 10 · Uses and Learning Reflection
 
 ### What the model is used for
 

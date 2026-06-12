@@ -31,7 +31,7 @@ A 200×200 grid of cellular agents catches, burns, and dies out through a three-
 
 ---
 
-## 2 · Modeling Approach
+## 2· Modeling Approach
 
 | | |
 |---|---|

@@ -15,11 +15,11 @@ A 200×200 grid of cellular agents catches, burns, and dies out through a three-
 3. [Assumptions & Limitations](#3-assumptions-and-limitations)
 4. [System Definition](#4-system-definition)
 5. [Model Structure & State Logic](#5-model-structure-state-logic)
-6. [Experiments & Scenarios](#6-experiments-scenarios)
-7. [Verification, Reproducibility & Inputs](#7-verification-reproducibility-inputs)
-8. [Results and Analysis](#8-results-analysis)
+6. [Experiments & Scenarios](#6-experiments-and-scenarios)
+7. [Verification, Reproducibility & Inputs](#7-verification-reproducibility-and-inputs)
+8. [Results and Analysis](#8-results-and-analysis)
 9. [Comparison to the Classic Wildfire Power Law](#9-comparison-to-the-classic-wildfire-power-law)
-10. [Uses and Learning Reflection](#10-uses-learning-reflection)
+10. [Uses and Learning Reflection](#10-uses-and-learning-reflection)
 
 ---
 

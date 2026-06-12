@@ -10,16 +10,16 @@ A 200×200 grid of cellular agents catches, burns, and dies out through a three-
 
 ## Table of Contents
 
-1. [Context & Purpose](#1-context--purpose)
+1. [Context & Purpose](#1-context-purpose)
 2. [Modeling Approach](#2-modeling-approach)
-3. [Assumptions & Limitations](#3-assumptions--limitations)
+3. [Assumptions & Limitations](#3-assumptions-limitations)
 4. [System Definition](#4-system-definition)
-5. [Model Structure & State Logic](#5-model-structure--state-logic)
-6. [Experiments & Scenarios](#6-experiments--scenarios)
-7. [Verification, Reproducibility & Inputs](#7-verification-reproducibility--inputs)
-8. [Results & Analysis](#8-results--analysis)
+5. [Model Structure & State Logic](#5-model-structure-state-logic)
+6. [Experiments & Scenarios](#6-experiments-scenarios)
+7. [Verification, Reproducibility & Inputs](#7-verification-reproducibility-inputs)
+8. [Results & Analysis](#8-results-analysis)
 9. [Comparison to the Classic Wildfire Power Law](#9-comparison-to-the-classic-wildfire-power-law)
-10. [Uses & Learning Reflection](#10-uses--learning-reflection)
+10. [Uses & Learning Reflection](#10-uses-learning-reflection)
 
 ---
 

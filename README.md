@@ -43,7 +43,7 @@ A 200×200 grid of cellular agents catches, burns, and dies out through a three-
 
 ---
 
-## 3. Assumptions & Limitations
+## 3. Assumptions and Limitations
 
 ### Assumptions (explicit list)
 
@@ -71,7 +71,7 @@ The main limitation of this model is that it represents wildfire spread using si
 
 ---
 
-## 5· Model Structure & State Logic
+## 5· Model Structure and State Logic
 
 **Agent.** The model has a single agent type: the **cell** (`GridCell`, 40,000 instances), each carrying its own `Fuel` value and fire statechart. `Main` is only the container hosting the grid — not a behavioural agent.
 
@@ -97,7 +97,7 @@ The main limitation of this model is that it represents wildfire spread using si
 
 ---
 
-## 6· Experiments & Scenarios
+## 6· Experiments and Scenarios
 
 | | |
 |---|---|
@@ -110,7 +110,7 @@ The batch fire model mirrors the visual statechart exactly: a burning cell sprea
 
 ---
 
-## 7· Verification, Reproducibility & Inputs
+## 7· Verification, Reproducibility and Inputs
 
 ### Verification & Validation
 

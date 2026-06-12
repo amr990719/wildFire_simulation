@@ -43,7 +43,7 @@ A 200×200 grid of cellular agents catches, burns, and dies out through a three-
 
 ---
 
-## 3 · Assumptions & Limitations
+## 3 - Assumptions & Limitations
 
 ### Assumptions (explicit list)
 
